@@ -1,0 +1,9 @@
+--------------FOR GRAY--------------
+Light Gray: #CCCCCC
+Medium Gray: #808080
+Dark Gray: #555555
+
+--------------FOR GREY WHITSIH--------------
+Light Grayish: #EFEFEF
+Medium Grayish: #DADADA
+Pale Grayish: #F5F5F5
